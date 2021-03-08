@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MobileBengkel</string>
+    <string name="text_logo">M-Bengkel</string>
+    <string name="text_hint_email">Email</string>
+    <string name="text_hint_password">Password</string>
+    <string name="text_login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
 </resources>
